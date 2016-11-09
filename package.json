@@ -1,0 +1,26 @@
+{
+  "name": "qrcodejs3",
+  "version": "1.0.0",
+  "description": "A QRCode client library",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "npm test",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakwuh/qrcodejs.git"
+  },
+  "keywords": [
+    "qrcode"
+  ],
+  "author": "jakwuh <jakwuh@yandex-team.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakwuh/qrcodejs/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/jakwuh/qrcodejs#readme"
+}
