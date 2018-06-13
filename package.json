@@ -1,5 +1,5 @@
 {
-  "name": "qrcodejs3",
+  "name": "qrcodejs4",
   "version": "1.0.0",
   "description": "A QRCode client library",
   "main": "index.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jakwuh/qrcodejs.git"
+    "url": "git+https://github.com/LazyNeo/qrcodejs.git"
   },
   "keywords": [
     "qrcode"
   ],
-  "author": "jakwuh <jakwuh@yandex-team.ru>",
+  "author": "NeoPasser <NeoPasser@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jakwuh/qrcodejs/issues"
+    "url": "https://github.com/LazyNeo/qrcodejs/issues"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/jakwuh/qrcodejs#readme"
+  "homepage": "https://github.com/LazyNeo/qrcodejs#readme"
 }
